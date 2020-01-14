@@ -1,0 +1,1 @@
+Place where downloaded from database book covers are stored.
