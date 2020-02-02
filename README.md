@@ -8,4 +8,4 @@ you are permitted to do that.
 Data validation of user input was also provided, so it will be impossible for user 
 to add a new book using wrong path to cover, non-numeric price, already existing book etc.
 
-In order to show how this program is working, Embedded Derby Database was added and some initial values were hard coded.
+In order to show how this program is working, Embedded Derby Database was added and some initial values were hard coded. 
